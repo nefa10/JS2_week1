@@ -26,23 +26,24 @@ When you enter a URL into the browser web address, your browser sends a request 
 
 ## Document Object Manuapluation(DOM)
 
-You can work with Javascript with the <script> tag inside the HTML. There is two ways of doing it, with the regular tag <script> [JavaScript function]</script> or with <script  src= [javascript path]></script>
+You can work with Javascript with the <script> tag inside the HTML. There are two ways of doing it, with the regular tag <script> [JavaScript function]</script> or with <script  src= [javascript path]></script>
 
-Placement of the external script tag is usually recommened to be in the head tag.
+Placement of the external script tag is usually recommended to be in the head tag.
 
 ### DOM
 
 How can JS understand which element to change in HTML?
-You can access the element in HTML by Document Object Manupluation. It represent the document as object and nodes with Id and attributes. DOM have a tree structre.
-These are the function mostly used for accessing element in HTML in JS:
+You can access the element in HTML by Document Object Manipulation. It represents the document as an object and nodes with Id and attributes. DOM have a tree structure.
+![alt text](images/DOM.png "DOM tree structre")
+These are the functions mostly used for accessing elements in HTML in JS:
 - getElementById
 - getElementsByTagName
 - getElementsByClassName
 - appendChild
 
-## Event Listner
+## Event Listener
 
-Matches event handler to a spcific element. You can add many events to a single element. The event needs to be from HTML dom events.
+Matches event handler to a specific element. You can add many events to a single element. The event needs to be from HTML dom events.
 
    
 
