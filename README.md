@@ -14,7 +14,7 @@
 
   - JavaScript is the programming language, responsible for the functionality of web pages. It's like eating or sleeping in humans.
  
-![alt text](html_css_js.jpg "HTML and Css and JS roles")
+![alt text](images/html_css_js.jpg "HTML and Css and JS roles")
 ## Client and Servers
 The client is a computer that can receive information and display it in a coherent UI. Gather inputs and communicate them to the server.
 
