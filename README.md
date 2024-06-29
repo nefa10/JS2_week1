@@ -35,6 +35,7 @@ Placement of the external script tag is usually recommended to be in the head ta
 How can JS understand which element to change in HTML?
 You can access the element in HTML by Document Object Manipulation. It represents the document as an object and nodes with Id and attributes. DOM have a tree structure.
 ![alt text](images/DOM.png "DOM tree structre")
+
 These are the functions mostly used for accessing elements in HTML in JS:
 - getElementById
 - getElementsByTagName
